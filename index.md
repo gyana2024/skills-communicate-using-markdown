@@ -20,6 +20,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var temp - "Hello World"
 ```
 
-- [x] Test1
-- [x] Test2
-- [] Test3
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
